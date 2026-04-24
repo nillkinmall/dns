@@ -64,11 +64,11 @@ ruleset=🐟 漏网之鱼,[]FINAL
 
 ;设置分组标志位
 custom_proxy_group=🚀 节点选择`select`[]♻️ 自动选择`[]🇺🇲 美国节点`[]🚀 自定节点1️⃣`[]🚀 自定节点2️⃣`[]🚀 自定节点3️⃣`[]🚀 自定节点4️⃣`[]DIRECT
+custom_proxy_group=♻️ 自动选择`url-test`.*`http://www.gstatic.com/generate_204`300,,50
 custom_proxy_group=🚀 自定节点1️⃣`select`.*
 custom_proxy_group=🚀 自定节点2️⃣`select`.*
 custom_proxy_group=🚀 自定节点3️⃣`select`.*
 custom_proxy_group=🚀 自定节点4️⃣`select`.*
-custom_proxy_group=♻️ 自动选择`url-test`.*`http://www.gstatic.com/generate_204`300,,50
 custom_proxy_group=🌩️ CloudFlare`select`[]🚀 节点选择`[]♻️ 自动选择`[]🇺🇲 美国节点`[]🚀 自定节点1️⃣`[]🚀 自定节点2️⃣`[]🚀 自定节点3️⃣`[]🚀 自定节点4️⃣`[]DIRECT
 custom_proxy_group=💰 Wealth`select`[]🚀 节点选择`[]♻️ 自动选择`[]🇺🇲 美国节点`[]🚀 自定节点1️⃣`[]🚀 自定节点2️⃣`[]🚀 自定节点3️⃣`[]🚀 自定节点4️⃣`[]DIRECT
 custom_proxy_group=📲 电报消息`select`[]🚀 节点选择`[]♻️ 自动选择`[]🇺🇲 美国节点`[]🚀 自定节点1️⃣`[]🚀 自定节点2️⃣`[]🚀 自定节点3️⃣`[]🚀 自定节点4️⃣`[]DIRECT
