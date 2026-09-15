@@ -60,7 +60,7 @@ ruleset=🐟 漏网之鱼,[]FINAL
 ;设置规则标志位
 
 ;设置分组标志位
-custom_proxy_group=♻️ 默认模式`select`[]🛩️ 延迟最低`[]🚀 故障切换`[]Ⓜ️ 负载均衡`[]自定节点1️⃣`[]✈️ 自定节点2️⃣`[]✈️ 自定节点3️⃣`[]✈️ 自定节点4️⃣
+custom_proxy_group=♻️ 默认模式`select`[]🛩️ 延迟最低`[]🚀 故障切换`[]Ⓜ️ 负载均衡`[]✈️ 自定节点1️⃣`[]✈️ 自定节点2️⃣`[]✈️ 自定节点3️⃣`[]✈️ 自定节点4️⃣
 custom_proxy_group=🛩️ 延迟最低`url-test`.*`http://www.gstatic.com/generate_204`300,,50
 custom_proxy_group=🚀 故障切换`fallback`.*`http://www.gstatic.com/generate_204`300,,50
 custom_proxy_group=Ⓜ️ 负载均衡`load-balance`.*`http://www.gstatic.com/generate_204`300,,50`consistent-hashing
